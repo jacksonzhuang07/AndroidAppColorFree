@@ -1,5 +1,0 @@
-./gradlew : e: file://
-fied: (e: file://
-e: file:///C:/Users/an
-e: file:///C:/Users/an
-e: file:///C:/Users/an
