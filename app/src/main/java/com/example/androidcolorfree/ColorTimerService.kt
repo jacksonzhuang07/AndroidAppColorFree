@@ -1,4 +1,4 @@
-package com.jzhuang.androidcolorfree
+package com.jzhuang.colorfree
 
 import android.app.Notification
 import android.app.NotificationChannel

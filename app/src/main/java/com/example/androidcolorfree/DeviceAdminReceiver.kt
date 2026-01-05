@@ -1,4 +1,4 @@
-package com.jzhuang.androidcolorfree
+package com.jzhuang.colorfree
 
 import android.app.admin.DeviceAdminReceiver
 import android.content.Context

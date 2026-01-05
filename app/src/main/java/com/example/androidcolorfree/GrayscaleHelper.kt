@@ -1,4 +1,4 @@
-package com.jzhuang.androidcolorfree
+package com.jzhuang.colorfree
 
 import android.content.Context
 import android.provider.Settings

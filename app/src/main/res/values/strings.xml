@@ -3,4 +3,6 @@
     <string name="notification_channel_name">Color Timer</string>
     <string name="notification_title">Color Mode Active</string>
     <string name="notification_content">Time remaining: %s</string>
+    <!-- Placeholder for Google Sign-In. Update google-services.json to fix real login. -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_PLACEHOLDER</string>
 </resources>

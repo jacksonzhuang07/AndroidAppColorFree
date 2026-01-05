@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.jzhuang.androidcolorfree" // UPDATED
+    namespace = "com.jzhuang.colorfree" // UPDATED
     compileSdk = 36
 
     signingConfigs {
@@ -27,7 +27,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.jzhuang.androidcolorfree" // UPDATED
+        applicationId = "com.jzhuang.colorfree" // UPDATED
         minSdk = 26
         targetSdk = 36
         versionCode = 1
